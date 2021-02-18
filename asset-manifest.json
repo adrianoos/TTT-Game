@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TTT-Game/static/css/main.20547934.chunk.css",
+    "main.js": "/TTT-Game/static/js/main.d2cc533e.chunk.js",
+    "main.js.map": "/TTT-Game/static/js/main.d2cc533e.chunk.js.map",
+    "runtime-main.js": "/TTT-Game/static/js/runtime-main.6a5810c1.js",
+    "runtime-main.js.map": "/TTT-Game/static/js/runtime-main.6a5810c1.js.map",
+    "static/js/2.f96f5736.chunk.js": "/TTT-Game/static/js/2.f96f5736.chunk.js",
+    "static/js/2.f96f5736.chunk.js.map": "/TTT-Game/static/js/2.f96f5736.chunk.js.map",
+    "index.html": "/TTT-Game/index.html",
+    "static/css/main.20547934.chunk.css.map": "/TTT-Game/static/css/main.20547934.chunk.css.map",
+    "static/js/2.f96f5736.chunk.js.LICENSE.txt": "/TTT-Game/static/js/2.f96f5736.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a5810c1.js",
+    "static/js/2.f96f5736.chunk.js",
+    "static/css/main.20547934.chunk.css",
+    "static/js/main.d2cc533e.chunk.js"
+  ]
+}
